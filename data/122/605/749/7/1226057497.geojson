@@ -64,7 +64,7 @@
         "wk:page":"Mankayane"
     },
     "wof:country":"SZ",
-    "wof:geomhash":"9e146f70c2b6676f531c8f1d126c3360",
+    "wof:geomhash":"c34c69180280d304c4f34ef7072e6d34",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,5 +90,5 @@
     31.06487000000001,
     -26.6684
 ],
-  "geometry": {"coordinates":[31.06487000000001,-26.6684],"type":"Point"}
+  "geometry": {"coordinates":[31.06487,-26.6684],"type":"Point"}
 }

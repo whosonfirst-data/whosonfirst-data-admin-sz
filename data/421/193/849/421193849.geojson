@@ -57,7 +57,7 @@
     },
     "wof:country":"SZ",
     "wof:created":1459009785,
-    "wof:geomhash":"5aa85934abe05b8305a73d29aaadd393",
+    "wof:geomhash":"617ed50c66719a3707239750781a13e2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,5 +83,5 @@
     31.748428,
     -26.6689935
 ],
-  "geometry": {"coordinates":[31.748428,-26.6689935],"type":"Point"}
+  "geometry": {"coordinates":[31.748428,-26.668993],"type":"Point"}
 }
