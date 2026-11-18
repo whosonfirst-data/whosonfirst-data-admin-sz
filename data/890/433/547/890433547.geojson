@@ -101,12 +101,6 @@
     "name:vol_x_preferred":[
         "Big Bend"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5927\u672c\u5fb7\u6c99\u6f20"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u7562\u672c\u5fb7\u6c99\u6f20"
-    ],
     "qs:name":"Big Bend",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -139,7 +133,7 @@
         }
     ],
     "wof:id":890433547,
-    "wof:lastmodified":1636501635,
+    "wof:lastmodified":1794999722,
     "wof:name":"Big Bend",
     "wof:parent_id":1108561241,
     "wof:placetype":"locality",
