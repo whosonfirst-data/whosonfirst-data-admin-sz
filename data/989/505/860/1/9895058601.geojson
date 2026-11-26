@@ -1,0 +1,74 @@
+{
+  "id": 9895058601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.009,-26.35692,31.009,-26.35692",
+    "geom:latitude":-26.35692,
+    "geom:longitude":31.009,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13116384: name \"Sigangeni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13116384"
+        },
+        {
+            "citation":"GeoNames populated place 13116384: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13116384"
+        },
+        {
+            "citation":"GeoNames populated place 13116384: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13116384"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191941 (Motjane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421191941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13116384
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"7919964c73638fe6e06985ced4e73572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421191941,
+            "locality_id":9895058601,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058601,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Sigangeni",
+    "wof:parent_id":421191941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.009,
+    -26.35692,
+    31.009,
+    -26.35692
+],
+  "geometry": {"coordinates":[31.009,-26.35692],"type":"Point"}
+}

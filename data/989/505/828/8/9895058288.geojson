@@ -1,0 +1,74 @@
+{
+  "id": 9895058288,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63333,-25.93333,31.63333,-25.93333",
+    "geom:latitude":-25.93333,
+    "geom:longitude":31.63333,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11126275: name \"Mhlangatane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11126275"
+        },
+        {
+            "citation":"GeoNames populated place 11126275: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11126275"
+        },
+        {
+            "citation":"GeoNames populated place 11126275: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11126275"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561209 (Mhlangatane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        1108561209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11126275
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"66a5e3b3ae890938460d1290e5cee3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561209,
+            "locality_id":9895058288,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058288,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mhlangatane",
+    "wof:parent_id":1108561209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63333,
+    -25.93333,
+    31.63333,
+    -25.93333
+],
+  "geometry": {"coordinates":[31.63333,-25.93333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06599,-26.33117,31.06599,-26.33117",
+    "geom:latitude":-26.33117,
+    "geom:longitude":31.06599,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13116378: name \"Mpolonjeni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13116378"
+        },
+        {
+            "citation":"GeoNames populated place 13116378: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13116378"
+        },
+        {
+            "citation":"GeoNames populated place 13116378: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13116378"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191941 (Motjane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421191941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13116378
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"7f6a38265af697252c9894f2940dea70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421191941,
+            "locality_id":9895058597,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058597,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mpolonjeni",
+    "wof:parent_id":421191941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06599,
+    -26.33117,
+    31.06599,
+    -26.33117
+],
+  "geometry": {"coordinates":[31.06599,-26.33117],"type":"Point"}
+}

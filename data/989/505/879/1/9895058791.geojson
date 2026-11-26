@@ -1,0 +1,74 @@
+{
+  "id": 9895058791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9806,-26.80847,31.9806,-26.80847",
+    "geom:latitude":-26.80847,
+    "geom:longitude":31.9806,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131878: name \"Lushikishini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131878"
+        },
+        {
+            "citation":"GeoNames populated place 13131878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131878"
+        },
+        {
+            "citation":"GeoNames populated place 13131878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131878"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561241 (Nkilongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131878
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"bbcb404fe3377332c02a83d3aa095167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561241,
+            "locality_id":9895058791,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058791,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Lushikishini",
+    "wof:parent_id":1108561241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9806,
+    -26.80847,
+    31.9806,
+    -26.80847
+],
+  "geometry": {"coordinates":[31.9806,-26.80847],"type":"Point"}
+}

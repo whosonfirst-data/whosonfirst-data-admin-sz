@@ -1,0 +1,74 @@
+{
+  "id": 9895058600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07988,-26.3886,31.07988,-26.3886",
+    "geom:latitude":-26.3886,
+    "geom:longitude":31.07988,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13116383: name \"Mazandini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13116383"
+        },
+        {
+            "citation":"GeoNames populated place 13116383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13116383"
+        },
+        {
+            "citation":"GeoNames populated place 13116383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13116383"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191941 (Motjane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421191941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13116383
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"48b49a8c4ceb0b4a6c6dd499ebdfc25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421191941,
+            "locality_id":9895058600,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058600,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mazandini",
+    "wof:parent_id":421191941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07988,
+    -26.3886,
+    31.07988,
+    -26.3886
+],
+  "geometry": {"coordinates":[31.07988,-26.3886],"type":"Point"}
+}

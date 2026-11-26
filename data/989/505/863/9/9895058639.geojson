@@ -1,0 +1,74 @@
+{
+  "id": 9895058639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48952,-26.82658,31.48952,-26.82658",
+    "geom:latitude":-26.82658,
+    "geom:longitude":31.48952,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121799: name \"Toakoms\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121799"
+        },
+        {
+            "citation":"GeoNames populated place 13121799: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121799"
+        },
+        {
+            "citation":"GeoNames populated place 13121799: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121799"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561233 (Kubuta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121799
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"5d58efafa68b077352951e8bc015688b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561233,
+            "locality_id":9895058639,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058639,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Toakoms",
+    "wof:parent_id":1108561233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48952,
+    -26.82658,
+    31.48952,
+    -26.82658
+],
+  "geometry": {"coordinates":[31.48952,-26.82658],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.20136,-26.0369,31.20136,-26.0369",
+    "geom:latitude":-26.0369,
+    "geom:longitude":31.20136,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13096757: name \"Hlangotsini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13096757"
+        },
+        {
+            "citation":"GeoNames populated place 13096757: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13096757"
+        },
+        {
+            "citation":"GeoNames populated place 13096757: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13096757"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202649 (Pigg's Peak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421202649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13096757
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"607a5c3417d0254259ba04e6e1a4573a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202649,
+            "locality_id":9895058359,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058359,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Hlangotsini",
+    "wof:parent_id":421202649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.20136,
+    -26.0369,
+    31.20136,
+    -26.0369
+],
+  "geometry": {"coordinates":[31.20136,-26.0369],"type":"Point"}
+}

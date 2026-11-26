@@ -1,0 +1,74 @@
+{
+  "id": 9895058721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1865,-27.19355,31.1865,-27.19355",
+    "geom:latitude":-27.19355,
+    "geom:longitude":31.1865,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131066: name \"Makhosini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131066"
+        },
+        {
+            "citation":"GeoNames populated place 13131066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131066"
+        },
+        {
+            "citation":"GeoNames populated place 13131066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131066"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561289 (Maseyisini), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131066
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"d847c2f2a79e3eb88165ce54c03355c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561289,
+            "locality_id":9895058721,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058721,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Makhosini",
+    "wof:parent_id":1108561289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1865,
+    -27.19355,
+    31.1865,
+    -27.19355
+],
+  "geometry": {"coordinates":[31.1865,-27.19355],"type":"Point"}
+}

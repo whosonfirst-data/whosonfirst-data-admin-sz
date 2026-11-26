@@ -1,0 +1,74 @@
+{
+  "id": 9895058833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02878,-26.38622,32.02878,-26.38622",
+    "geom:latitude":-26.38622,
+    "geom:longitude":32.02878,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13134082: name \"Mashicaka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13134082"
+        },
+        {
+            "citation":"GeoNames populated place 13134082: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13134082"
+        },
+        {
+            "citation":"GeoNames populated place 13134082: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13134082"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561281 (Lugongolweni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13134082
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"8c4a4a609d22827a24de982a0b291e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561281,
+            "locality_id":9895058833,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058833,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mashicaka",
+    "wof:parent_id":1108561281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02878,
+    -26.38622,
+    32.02878,
+    -26.38622
+],
+  "geometry": {"coordinates":[32.02878,-26.38622],"type":"Point"}
+}

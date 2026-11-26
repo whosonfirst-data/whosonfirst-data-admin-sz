@@ -1,0 +1,74 @@
+{
+  "id": 9895058827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79795,-27.11292,31.79795,-27.11292",
+    "geom:latitude":-27.11292,
+    "geom:longitude":31.79795,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13133970: name \"Ezindwendweni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13133970"
+        },
+        {
+            "citation":"GeoNames populated place 13133970: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13133970"
+        },
+        {
+            "citation":"GeoNames populated place 13133970: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13133970"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561251 (Matsanjeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13133970
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"f7608e4c64d05b09f63ed04e491d2e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561251,
+            "locality_id":9895058827,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058827,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Ezindwendweni",
+    "wof:parent_id":1108561251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79795,
+    -27.11292,
+    31.79795,
+    -27.11292
+],
+  "geometry": {"coordinates":[31.79795,-27.11292],"type":"Point"}
+}

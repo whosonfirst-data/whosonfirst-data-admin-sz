@@ -1,0 +1,74 @@
+{
+  "id": 9895058828,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82881,-27.27583,31.82881,-27.27583",
+    "geom:latitude":-27.27583,
+    "geom:longitude":31.82881,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13133978: name \"Somntongo Nkundla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13133978"
+        },
+        {
+            "citation":"GeoNames populated place 13133978: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13133978"
+        },
+        {
+            "citation":"GeoNames populated place 13133978: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13133978"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421195839 (Lavumisa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        421195839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13133978
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"93b8507ffeb1f5da1da0626124bc4b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421195839,
+            "locality_id":9895058828,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058828,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Somntongo Nkundla",
+    "wof:parent_id":421195839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82881,
+    -27.27583,
+    31.82881,
+    -27.27583
+],
+  "geometry": {"coordinates":[31.82881,-27.27583],"type":"Point"}
+}

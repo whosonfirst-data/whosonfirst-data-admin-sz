@@ -1,0 +1,74 @@
+{
+  "id": 9895058786,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8431,-26.98171,31.8431,-26.98171",
+    "geom:latitude":-26.98171,
+    "geom:longitude":31.8431,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131870: name \"Nkunge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131870"
+        },
+        {
+            "citation":"GeoNames populated place 13131870: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131870"
+        },
+        {
+            "citation":"GeoNames populated place 13131870: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131870"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202643 (Lubuli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421202643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131870
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"12d1355de5d03f1305df72f96211fe5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202643,
+            "locality_id":9895058786,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058786,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Nkunge",
+    "wof:parent_id":421202643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8431,
+    -26.98171,
+    31.8431,
+    -26.98171
+],
+  "geometry": {"coordinates":[31.8431,-26.98171],"type":"Point"}
+}

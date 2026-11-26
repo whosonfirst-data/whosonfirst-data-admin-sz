@@ -1,0 +1,74 @@
+{
+  "id": 9895058344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9947,-26.22991,30.9947,-26.22991",
+    "geom:latitude":-26.22991,
+    "geom:longitude":30.9947,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13096720: name \"Droxford\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13096720"
+        },
+        {
+            "citation":"GeoNames populated place 13096720: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13096720"
+        },
+        {
+            "citation":"GeoNames populated place 13096720: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13096720"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421191941 (Motjane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421191941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13096720
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e453141b4afa4dac3aaacbc9c9459c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421191941,
+            "locality_id":9895058344,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058344,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Droxford",
+    "wof:parent_id":421191941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9947,
+    -26.22991,
+    30.9947,
+    -26.22991
+],
+  "geometry": {"coordinates":[30.9947,-26.22991],"type":"Point"}
+}

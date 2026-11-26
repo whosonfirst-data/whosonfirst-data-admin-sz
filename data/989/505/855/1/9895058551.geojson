@@ -1,0 +1,74 @@
+{
+  "id": 9895058551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.77115,-26.7412,31.77115,-26.7412",
+    "geom:latitude":-26.7412,
+    "geom:longitude":31.77115,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13113328: name \"Buhlenl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13113328"
+        },
+        {
+            "citation":"GeoNames populated place 13113328: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13113328"
+        },
+        {
+            "citation":"GeoNames populated place 13113328: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13113328"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183019 (Siphofaneni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421183019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13113328
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"760885aba6078cdca0ae25860b204284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421183019,
+            "locality_id":9895058551,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058551,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Buhlenl",
+    "wof:parent_id":421183019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.77115,
+    -26.7412,
+    31.77115,
+    -26.7412
+],
+  "geometry": {"coordinates":[31.77115,-26.7412],"type":"Point"}
+}

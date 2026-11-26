@@ -1,0 +1,74 @@
+{
+  "id": 9895058846,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99216,-26.31742,31.99216,-26.31742",
+    "geom:latitude":-26.31742,
+    "geom:longitude":31.99216,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13227054: name \"Cyrildene\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13227054"
+        },
+        {
+            "citation":"GeoNames populated place 13227054: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13227054"
+        },
+        {
+            "citation":"GeoNames populated place 13227054: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13227054"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561281 (Lugongolweni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13227054
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"208082d46badad1039ca8bfad6fd3039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561281,
+            "locality_id":9895058846,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058846,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Cyrildene",
+    "wof:parent_id":1108561281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99216,
+    -26.31742,
+    31.99216,
+    -26.31742
+],
+  "geometry": {"coordinates":[31.99216,-26.31742],"type":"Point"}
+}

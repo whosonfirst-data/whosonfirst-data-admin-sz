@@ -1,0 +1,74 @@
+{
+  "id": 9895058702,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54977,-27.06449,31.54977,-27.06449",
+    "geom:latitude":-27.06449,
+    "geom:longitude":31.54977,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13130844: name \"Lusitini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13130844"
+        },
+        {
+            "citation":"GeoNames populated place 13130844: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13130844"
+        },
+        {
+            "citation":"GeoNames populated place 13130844: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13130844"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561229 (Ngudzeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13130844
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"3dcfd91070642b8c931b7e0c154892e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561229,
+            "locality_id":9895058702,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058702,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Lusitini",
+    "wof:parent_id":1108561229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54977,
+    -27.06449,
+    31.54977,
+    -27.06449
+],
+  "geometry": {"coordinates":[31.54977,-27.06449],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15513,-26.06,31.15513,-26.06",
+    "geom:latitude":-26.06,
+    "geom:longitude":31.15513,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13096763: name \"Kufika\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13096763"
+        },
+        {
+            "citation":"GeoNames populated place 13096763: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13096763"
+        },
+        {
+            "citation":"GeoNames populated place 13096763: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13096763"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175617 (Nkaba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421175617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13096763
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"a0ee39bf476752b8361612d21be9faf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421175617,
+            "locality_id":9895058361,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058361,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Kufika",
+    "wof:parent_id":421175617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15513,
+    -26.06,
+    31.15513,
+    -26.06
+],
+  "geometry": {"coordinates":[31.15513,-26.06],"type":"Point"}
+}

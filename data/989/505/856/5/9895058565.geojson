@@ -1,0 +1,74 @@
+{
+  "id": 9895058565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59453,-26.6922,31.59453,-26.6922",
+    "geom:latitude":-26.6922,
+    "geom:longitude":31.59453,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13113953: name \"Madvuma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13113953"
+        },
+        {
+            "citation":"GeoNames populated place 13113953: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13113953"
+        },
+        {
+            "citation":"GeoNames populated place 13113953: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13113953"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183019 (Siphofaneni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421183019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13113953
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"9acbb39980ec9c552e9557643bf72a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421183019,
+            "locality_id":9895058565,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058565,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Madvuma",
+    "wof:parent_id":421183019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59453,
+    -26.6922,
+    31.59453,
+    -26.6922
+],
+  "geometry": {"coordinates":[31.59453,-26.6922],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44807,-27.17699,31.44807,-27.17699",
+    "geom:latitude":-27.17699,
+    "geom:longitude":31.44807,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131273: name \"Mahanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131273"
+        },
+        {
+            "citation":"GeoNames populated place 13131273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131273"
+        },
+        {
+            "citation":"GeoNames populated place 13131273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131273"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561227 (Hosea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131273
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"958e5851f75309d5bde3a58d516a2c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561227,
+            "locality_id":9895058737,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058737,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mahanga",
+    "wof:parent_id":1108561227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44807,
+    -27.17699,
+    31.44807,
+    -27.17699
+],
+  "geometry": {"coordinates":[31.44807,-27.17699],"type":"Point"}
+}

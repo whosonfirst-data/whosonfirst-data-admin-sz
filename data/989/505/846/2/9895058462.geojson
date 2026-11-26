@@ -1,0 +1,74 @@
+{
+  "id": 9895058462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2815,-26.45486,31.2815,-26.45486",
+    "geom:latitude":-26.45486,
+    "geom:longitude":31.2815,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13108406: name \"Lobombi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13108406"
+        },
+        {
+            "citation":"GeoNames populated place 13108406: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13108406"
+        },
+        {
+            "citation":"GeoNames populated place 13108406: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13108406"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561213 (Ludzeludze), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13108406
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"2d59d8ee4eb0bfec44bd313fc1f8e824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561213,
+            "locality_id":9895058462,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058462,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Lobombi",
+    "wof:parent_id":1108561213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2815,
+    -26.45486,
+    31.2815,
+    -26.45486
+],
+  "geometry": {"coordinates":[31.2815,-26.45486],"type":"Point"}
+}

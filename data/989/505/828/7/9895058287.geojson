@@ -1,0 +1,74 @@
+{
+  "id": 9895058287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00919,-26.96637,31.00919,-26.96637",
+    "geom:latitude":-26.96637,
+    "geom:longitude":31.00919,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 935091: name \"Gege\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/935091"
+        },
+        {
+            "citation":"GeoNames populated place 935091: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/935091"
+        },
+        {
+            "citation":"GeoNames populated place 935091: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/935091"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561287 (Gege), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":935091
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"39f9a5a8f736f5ec0ad49773045f08c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561287,
+            "locality_id":9895058287,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058287,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Gege",
+    "wof:parent_id":1108561287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00919,
+    -26.96637,
+    31.00919,
+    -26.96637
+],
+  "geometry": {"coordinates":[31.00919,-26.96637],"type":"Point"}
+}
