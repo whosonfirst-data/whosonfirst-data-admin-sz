@@ -1,0 +1,74 @@
+{
+  "id": 9895058824,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92371,-27.1063,31.92371,-27.1063",
+    "geom:latitude":-27.1063,
+    "geom:longitude":31.92371,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13133964: name \"Mbutfu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13133964"
+        },
+        {
+            "citation":"GeoNames populated place 13133964: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13133964"
+        },
+        {
+            "citation":"GeoNames populated place 13133964: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13133964"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202643 (Lubuli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421202643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13133964
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"ad2a51c76a33403b51ad04206e33617b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202643,
+            "locality_id":9895058824,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058824,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mbutfu",
+    "wof:parent_id":421202643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92371,
+    -27.1063,
+    31.92371,
+    -27.1063
+],
+  "geometry": {"coordinates":[31.92371,-27.1063],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7322,-26.51455,31.7322,-26.51455",
+    "geom:latitude":-26.51455,
+    "geom:longitude":31.7322,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13113962: name \"Bangindaba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13113962"
+        },
+        {
+            "citation":"GeoNames populated place 13113962: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13113962"
+        },
+        {
+            "citation":"GeoNames populated place 13113962: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13113962"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561283 (Dvokodvweni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13113962
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"b2e20dfa799303b9bece1a9230825635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561283,
+            "locality_id":9895058571,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058571,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Bangindaba",
+    "wof:parent_id":1108561283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7322,
+    -26.51455,
+    31.7322,
+    -26.51455
+],
+  "geometry": {"coordinates":[31.7322,-26.51455],"type":"Point"}
+}

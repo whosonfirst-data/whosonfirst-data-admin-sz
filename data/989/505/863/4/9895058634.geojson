@@ -1,0 +1,74 @@
+{
+  "id": 9895058634,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.28666,-27.0138,31.28666,-27.0138",
+    "geom:latitude":-27.0138,
+    "geom:longitude":31.28666,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121791: name \"Madulini\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121791"
+        },
+        {
+            "citation":"GeoNames populated place 13121791: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121791"
+        },
+        {
+            "citation":"GeoNames populated place 13121791: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121791"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561285 (Mbangweni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121791
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e76db842f5b5c1d8a29dc835689ca7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561285,
+            "locality_id":9895058634,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058634,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Madulini",
+    "wof:parent_id":1108561285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.28666,
+    -27.0138,
+    31.28666,
+    -27.0138
+],
+  "geometry": {"coordinates":[31.28666,-27.0138],"type":"Point"}
+}

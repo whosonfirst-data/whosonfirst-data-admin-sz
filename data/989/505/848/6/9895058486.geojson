@@ -1,0 +1,74 @@
+{
+  "id": 9895058486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82866,-26.54793,30.82866,-26.54793",
+    "geom:latitude":-26.54793,
+    "geom:longitude":30.82866,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13108770: name \"Mangcongco\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13108770"
+        },
+        {
+            "citation":"GeoNames populated place 13108770: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13108770"
+        },
+        {
+            "citation":"GeoNames populated place 13108770: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13108770"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561249 (Mangcongco), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13108770
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"db9c3c1914b54f7c1f95db8d9899d996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561249,
+            "locality_id":9895058486,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058486,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mangcongco",
+    "wof:parent_id":1108561249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82866,
+    -26.54793,
+    30.82866,
+    -26.54793
+],
+  "geometry": {"coordinates":[30.82866,-26.54793],"type":"Point"}
+}

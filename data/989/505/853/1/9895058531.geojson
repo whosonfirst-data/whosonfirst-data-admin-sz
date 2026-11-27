@@ -1,0 +1,74 @@
+{
+  "id": 9895058531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26985,-26.51955,31.26985,-26.51955",
+    "geom:latitude":-26.51955,
+    "geom:longitude":31.26985,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13109563: name \"Nokwane Township\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13109563"
+        },
+        {
+            "citation":"GeoNames populated place 13109563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13109563"
+        },
+        {
+            "citation":"GeoNames populated place 13109563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13109563"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561215 (Mahlanya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13109563
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"d70f47f529c234065a3a9828962d571b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561215,
+            "locality_id":9895058531,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058531,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Nokwane Township",
+    "wof:parent_id":1108561215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26985,
+    -26.51955,
+    31.26985,
+    -26.51955
+],
+  "geometry": {"coordinates":[31.26985,-26.51955],"type":"Point"}
+}

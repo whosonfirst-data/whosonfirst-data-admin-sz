@@ -1,0 +1,74 @@
+{
+  "id": 9895058682,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71713,-27.06665,31.71713,-27.06665",
+    "geom:latitude":-27.06665,
+    "geom:longitude":31.71713,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13130807: name \"Nkalondze\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13130807"
+        },
+        {
+            "citation":"GeoNames populated place 13130807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13130807"
+        },
+        {
+            "citation":"GeoNames populated place 13130807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13130807"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561279 (Sigwe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13130807
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"37493a3aadd46c3a863495b65426577d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561279,
+            "locality_id":9895058682,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058682,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Nkalondze",
+    "wof:parent_id":1108561279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71713,
+    -27.06665,
+    31.71713,
+    -27.06665
+],
+  "geometry": {"coordinates":[31.71713,-27.06665],"type":"Point"}
+}

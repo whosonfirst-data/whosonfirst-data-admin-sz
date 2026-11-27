@@ -1,0 +1,74 @@
+{
+  "id": 9895058421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91723,-26.11605,31.91723,-26.11605",
+    "geom:latitude":-26.11605,
+    "geom:longitude":31.91723,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13104192: name \"Ngwenya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13104192"
+        },
+        {
+            "citation":"GeoNames populated place 13104192: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13104192"
+        },
+        {
+            "citation":"GeoNames populated place 13104192: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13104192"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421175627 (Mhlume), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421175627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13104192
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"c819a15f125df0a5044795ee4ff2e6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421175627,
+            "locality_id":9895058421,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058421,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Ngwenya",
+    "wof:parent_id":421175627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91723,
+    -26.11605,
+    31.91723,
+    -26.11605
+],
+  "geometry": {"coordinates":[31.91723,-26.11605],"type":"Point"}
+}

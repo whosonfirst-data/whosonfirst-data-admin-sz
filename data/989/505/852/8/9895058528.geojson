@@ -1,0 +1,74 @@
+{
+  "id": 9895058528,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44856,-26.63215,31.44856,-26.63215",
+    "geom:latitude":-26.63215,
+    "geom:longitude":31.44856,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13109555: name \"Peebles South\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13109555"
+        },
+        {
+            "citation":"GeoNames populated place 13109555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13109555"
+        },
+        {
+            "citation":"GeoNames populated place 13109555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13109555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561271 (Mthongwaneni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13109555
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"ee234ec1b99af7113149c068a7f31424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561271,
+            "locality_id":9895058528,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058528,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Peebles South",
+    "wof:parent_id":1108561271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44856,
+    -26.63215,
+    31.44856,
+    -26.63215
+],
+  "geometry": {"coordinates":[31.44856,-26.63215],"type":"Point"}
+}

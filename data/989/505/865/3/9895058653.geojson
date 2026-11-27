@@ -1,0 +1,74 @@
+{
+  "id": 9895058653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.46185,-26.93905,31.46185,-26.93905",
+    "geom:latitude":-26.93905,
+    "geom:longitude":31.46185,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121826: name \"Kambhokwe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121826"
+        },
+        {
+            "citation":"GeoNames populated place 13121826: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121826"
+        },
+        {
+            "citation":"GeoNames populated place 13121826: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121826"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561243 (Mtsambama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121826
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"3b726b8d13b57f9afc51e610b7bc0cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561243,
+            "locality_id":9895058653,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058653,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Kambhokwe",
+    "wof:parent_id":1108561243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.46185,
+    -26.93905,
+    31.46185,
+    -26.93905
+],
+  "geometry": {"coordinates":[31.46185,-26.93905],"type":"Point"}
+}

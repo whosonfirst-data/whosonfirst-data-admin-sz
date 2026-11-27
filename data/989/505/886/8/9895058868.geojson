@@ -1,0 +1,74 @@
+{
+  "id": 9895058868,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08841,-26.45423,31.08841,-26.45423",
+    "geom:latitude":-26.45423,
+    "geom:longitude":31.08841,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13456307: name \"Mhlambanyatsi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13456307"
+        },
+        {
+            "citation":"GeoNames populated place 13456307: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13456307"
+        },
+        {
+            "citation":"GeoNames populated place 13456307: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13456307"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561253 (Mhlambanyatsi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13456307
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"2686735f2647d85f763b7567bca7ac08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561253,
+            "locality_id":9895058868,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058868,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mhlambanyatsi",
+    "wof:parent_id":1108561253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08841,
+    -26.45423,
+    31.08841,
+    -26.45423
+],
+  "geometry": {"coordinates":[31.08841,-26.45423],"type":"Point"}
+}

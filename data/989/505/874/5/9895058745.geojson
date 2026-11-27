@@ -1,0 +1,74 @@
+{
+  "id": 9895058745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76429,-26.95592,31.76429,-26.95592",
+    "geom:latitude":-26.95592,
+    "geom:longitude":31.76429,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131590: name \"Terblanche\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131590"
+        },
+        {
+            "citation":"GeoNames populated place 13131590: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131590"
+        },
+        {
+            "citation":"GeoNames populated place 13131590: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131590"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202643 (Lubuli), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421202643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131590
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"bc0b73a0e23309a9806c5662ee162322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202643,
+            "locality_id":9895058745,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058745,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Terblanche",
+    "wof:parent_id":421202643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76429,
+    -26.95592,
+    31.76429,
+    -26.95592
+],
+  "geometry": {"coordinates":[31.76429,-26.95592],"type":"Point"}
+}

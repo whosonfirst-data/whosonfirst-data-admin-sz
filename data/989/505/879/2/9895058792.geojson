@@ -1,0 +1,74 @@
+{
+  "id": 9895058792,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.87251,-26.83623,31.87251,-26.83623",
+    "geom:latitude":-26.83623,
+    "geom:longitude":31.87251,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131879: name \"Ematsheni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131879"
+        },
+        {
+            "citation":"GeoNames populated place 13131879: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131879"
+        },
+        {
+            "citation":"GeoNames populated place 13131879: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131879"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561241 (Nkilongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131879
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"06efbb4aa0ae8468e867c5569f4f8501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561241,
+            "locality_id":9895058792,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058792,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Ematsheni",
+    "wof:parent_id":1108561241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.87251,
+    -26.83623,
+    31.87251,
+    -26.83623
+],
+  "geometry": {"coordinates":[31.87251,-26.83623],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92243,-26.86686,31.92243,-26.86686",
+    "geom:latitude":-26.86686,
+    "geom:longitude":31.92243,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131911: name \"Mateta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131911"
+        },
+        {
+            "citation":"GeoNames populated place 13131911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131911"
+        },
+        {
+            "citation":"GeoNames populated place 13131911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131911"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561241 (Nkilongo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131911
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"1eabb62c1dfe190fad47e3a693a31679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561241,
+            "locality_id":9895058811,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058811,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mateta",
+    "wof:parent_id":1108561241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92243,
+    -26.86686,
+    31.92243,
+    -26.86686
+],
+  "geometry": {"coordinates":[31.92243,-26.86686],"type":"Point"}
+}

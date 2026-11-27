@@ -1,0 +1,74 @@
+{
+  "id": 9895058580,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55285,-26.61487,31.55285,-26.61487",
+    "geom:latitude":-26.61487,
+    "geom:longitude":31.55285,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13113976: name \"Kamkhweli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13113976"
+        },
+        {
+            "citation":"GeoNames populated place 13113976: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13113976"
+        },
+        {
+            "citation":"GeoNames populated place 13113976: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13113976"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561271 (Mthongwaneni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13113976
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"f1a066bc9647f61e97a8c2776a8faeb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561271,
+            "locality_id":9895058580,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058580,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Kamkhweli",
+    "wof:parent_id":1108561271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55285,
+    -26.61487,
+    31.55285,
+    -26.61487
+],
+  "geometry": {"coordinates":[31.55285,-26.61487],"type":"Point"}
+}

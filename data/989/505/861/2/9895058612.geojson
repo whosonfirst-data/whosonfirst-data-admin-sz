@@ -1,0 +1,74 @@
+{
+  "id": 9895058612,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12929,-26.2976,31.12929,-26.2976",
+    "geom:latitude":-26.2976,
+    "geom:longitude":31.12929,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13116454: name \"Dalriach\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13116454"
+        },
+        {
+            "citation":"GeoNames populated place 13116454: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13116454"
+        },
+        {
+            "citation":"GeoNames populated place 13116454: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13116454"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202651 (Mbabane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421202651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13116454
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"8809d873a75fb15edf0526c42dd5513c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202651,
+            "locality_id":9895058612,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058612,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Dalriach",
+    "wof:parent_id":421202651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12929,
+    -26.2976,
+    31.12929,
+    -26.2976
+],
+  "geometry": {"coordinates":[31.12929,-26.2976],"type":"Point"}
+}

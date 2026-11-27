@@ -1,0 +1,74 @@
+{
+  "id": 9895058746,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53199,-26.94601,31.53199,-26.94601",
+    "geom:latitude":-26.94601,
+    "geom:longitude":31.53199,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131591: name \"Mbhoke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131591"
+        },
+        {
+            "citation":"GeoNames populated place 13131591: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131591"
+        },
+        {
+            "citation":"GeoNames populated place 13131591: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131591"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561245 (Sithobela), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131591
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"1ea5cd970f7b86ab8a5c458fd16d301d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561245,
+            "locality_id":9895058746,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058746,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mbhoke",
+    "wof:parent_id":1108561245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53199,
+    -26.94601,
+    31.53199,
+    -26.94601
+],
+  "geometry": {"coordinates":[31.53199,-26.94601],"type":"Point"}
+}

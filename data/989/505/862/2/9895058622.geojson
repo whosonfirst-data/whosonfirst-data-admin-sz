@@ -1,0 +1,74 @@
+{
+  "id": 9895058622,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2785,-26.88514,31.2785,-26.88514",
+    "geom:latitude":-26.88514,
+    "geom:longitude":31.2785,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121058: name \"Riceland\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121058"
+        },
+        {
+            "citation":"GeoNames populated place 13121058: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121058"
+        },
+        {
+            "citation":"GeoNames populated place 13121058: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121058"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561255 (Nkwene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121058
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"0b5935b9c57369afaeb204ada66babbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561255,
+            "locality_id":9895058622,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058622,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Riceland",
+    "wof:parent_id":1108561255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2785,
+    -26.88514,
+    31.2785,
+    -26.88514
+],
+  "geometry": {"coordinates":[31.2785,-26.88514],"type":"Point"}
+}

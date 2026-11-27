@@ -1,0 +1,74 @@
+{
+  "id": 9895058718,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12366,-27.09506,31.12366,-27.09506",
+    "geom:latitude":-27.09506,
+    "geom:longitude":31.12366,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131063: name \"Mlambo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131063"
+        },
+        {
+            "citation":"GeoNames populated place 13131063: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131063"
+        },
+        {
+            "citation":"GeoNames populated place 13131063: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131063"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561289 (Maseyisini), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131063
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"5be923c32af1f193c5bddd3ca5ad8d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561289,
+            "locality_id":9895058718,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058718,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mlambo",
+    "wof:parent_id":1108561289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12366,
+    -27.09506,
+    31.12366,
+    -27.09506
+],
+  "geometry": {"coordinates":[31.12366,-27.09506],"type":"Point"}
+}

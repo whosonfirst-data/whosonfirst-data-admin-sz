@@ -1,0 +1,74 @@
+{
+  "id": 9895058447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42253,-26.26631,31.42253,-26.26631",
+    "geom:latitude":-26.26631,
+    "geom:longitude":31.42253,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13108356: name \"Dikude\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13108356"
+        },
+        {
+            "citation":"GeoNames populated place 13108356: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13108356"
+        },
+        {
+            "citation":"GeoNames populated place 13108356: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13108356"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561223 (Maphalaleni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        1108561223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13108356
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e2b9ae7a1fe10bec3f82fdb2bd95b0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561223,
+            "locality_id":9895058447,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058447,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Dikude",
+    "wof:parent_id":1108561223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42253,
+    -26.26631,
+    31.42253,
+    -26.26631
+],
+  "geometry": {"coordinates":[31.42253,-26.26631],"type":"Point"}
+}

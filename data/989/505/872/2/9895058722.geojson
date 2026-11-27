@@ -1,0 +1,74 @@
+{
+  "id": 9895058722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19853,-27.18839,31.19853,-27.18839",
+    "geom:latitude":-27.18839,
+    "geom:longitude":31.19853,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13131067: name \"Nzama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13131067"
+        },
+        {
+            "citation":"GeoNames populated place 13131067: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13131067"
+        },
+        {
+            "citation":"GeoNames populated place 13131067: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13131067"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561289 (Maseyisini), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13131067
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"10a5ce1ac04a10dfa25434c8936cb0d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561289,
+            "locality_id":9895058722,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058722,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Nzama",
+    "wof:parent_id":1108561289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19853,
+    -27.18839,
+    31.19853,
+    -27.18839
+],
+  "geometry": {"coordinates":[31.19853,-27.18839],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53615,-26.61357,31.53615,-26.61357",
+    "geom:latitude":-26.61357,
+    "geom:longitude":31.53615,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13113977: name \"Nyumbane\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13113977"
+        },
+        {
+            "citation":"GeoNames populated place 13113977: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13113977"
+        },
+        {
+            "citation":"GeoNames populated place 13113977: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13113977"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561271 (Mthongwaneni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13113977
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"88f5a14f0ab004b7f2c6849efc6e086e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561271,
+            "locality_id":9895058581,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058581,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Nyumbane",
+    "wof:parent_id":1108561271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53615,
+    -26.61357,
+    31.53615,
+    -26.61357
+],
+  "geometry": {"coordinates":[31.53615,-26.61357],"type":"Point"}
+}

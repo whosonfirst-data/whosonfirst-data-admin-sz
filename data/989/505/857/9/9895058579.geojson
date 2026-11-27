@@ -1,0 +1,74 @@
+{
+  "id": 9895058579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56903,-26.62913,31.56903,-26.62913",
+    "geom:latitude":-26.62913,
+    "geom:longitude":31.56903,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13113975: name \"Hlano\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13113975"
+        },
+        {
+            "citation":"GeoNames populated place 13113975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13113975"
+        },
+        {
+            "citation":"GeoNames populated place 13113975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13113975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561271 (Mthongwaneni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13113975
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"8bf2e22c9ba8183663d50165b2c1cb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561271,
+            "locality_id":9895058579,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058579,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Hlano",
+    "wof:parent_id":1108561271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56903,
+    -26.62913,
+    31.56903,
+    -26.62913
+],
+  "geometry": {"coordinates":[31.56903,-26.62913],"type":"Point"}
+}

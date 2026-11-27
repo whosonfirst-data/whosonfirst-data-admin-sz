@@ -1,0 +1,74 @@
+{
+  "id": 9895058321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29201,-25.97786,31.29201,-25.97786",
+    "geom:latitude":-25.97786,
+    "geom:longitude":31.29201,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13094924: name \"Ekuthuleni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13094924"
+        },
+        {
+            "citation":"GeoNames populated place 13094924: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13094924"
+        },
+        {
+            "citation":"GeoNames populated place 13094924: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13094924"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421202649 (Pigg's Peak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421202649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13094924
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"b2c81075ca077219b6ed0b3484f829c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421202649,
+            "locality_id":9895058321,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058321,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Ekuthuleni",
+    "wof:parent_id":421202649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29201,
+    -25.97786,
+    31.29201,
+    -25.97786
+],
+  "geometry": {"coordinates":[31.29201,-25.97786],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45549,-26.77291,31.45549,-26.77291",
+    "geom:latitude":-26.77291,
+    "geom:longitude":31.45549,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13109545: name \"Goedetrou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13109545"
+        },
+        {
+            "citation":"GeoNames populated place 13109545: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13109545"
+        },
+        {
+            "citation":"GeoNames populated place 13109545: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13109545"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561233 (Kubuta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13109545
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"92b0e1da7d4e8c3a52f0ed3b0b67c342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561233,
+            "locality_id":9895058525,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058525,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Goedetrou",
+    "wof:parent_id":1108561233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45549,
+    -26.77291,
+    31.45549,
+    -26.77291
+],
+  "geometry": {"coordinates":[31.45549,-26.77291],"type":"Point"}
+}

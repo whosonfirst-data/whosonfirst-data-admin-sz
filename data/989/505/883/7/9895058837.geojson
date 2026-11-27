@@ -1,0 +1,74 @@
+{
+  "id": 9895058837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78198,-26.25203,31.78198,-26.25203",
+    "geom:latitude":-26.25203,
+    "geom:longitude":31.78198,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13227038: name \"Hlane Nkhundla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13227038"
+        },
+        {
+            "citation":"GeoNames populated place 13227038: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13227038"
+        },
+        {
+            "citation":"GeoNames populated place 13227038: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13227038"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421186543 (Hlane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        421186543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13227038
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"fa88dd8d7242ed470fadc3f5d9dae7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421186543,
+            "locality_id":9895058837,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058837,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Hlane Nkhundla",
+    "wof:parent_id":421186543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78198,
+    -26.25203,
+    31.78198,
+    -26.25203
+],
+  "geometry": {"coordinates":[31.78198,-26.25203],"type":"Point"}
+}

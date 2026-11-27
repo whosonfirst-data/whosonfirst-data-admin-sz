@@ -1,0 +1,74 @@
+{
+  "id": 9895058320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38425,-25.79622,31.38425,-25.79622",
+    "geom:latitude":-25.79622,
+    "geom:longitude":31.38425,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13094923: name \"Msuduga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13094923"
+        },
+        {
+            "citation":"GeoNames populated place 13094923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13094923"
+        },
+        {
+            "citation":"GeoNames populated place 13094923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13094923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183335 (Ntfonjeni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        421183335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13094923
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"423be698936cd0efc72ba54108ecba3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":421183335,
+            "locality_id":9895058320,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058320,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Msuduga",
+    "wof:parent_id":421183335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38425,
+    -25.79622,
+    31.38425,
+    -25.79622
+],
+  "geometry": {"coordinates":[31.38425,-25.79622],"type":"Point"}
+}

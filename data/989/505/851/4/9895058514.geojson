@@ -1,0 +1,74 @@
+{
+  "id": 9895058514,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25883,-26.59766,31.25883,-26.59766",
+    "geom:latitude":-26.59766,
+    "geom:longitude":31.25883,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13108848: name \"Kandinda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13108848"
+        },
+        {
+            "citation":"GeoNames populated place 13108848: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13108848"
+        },
+        {
+            "citation":"GeoNames populated place 13108848: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13108848"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561273 (Ntondozi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13108848
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"fe9ec4500292cdad8b48889a21d90c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561273,
+            "locality_id":9895058514,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058514,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Kandinda",
+    "wof:parent_id":1108561273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25883,
+    -26.59766,
+    31.25883,
+    -26.59766
+],
+  "geometry": {"coordinates":[31.25883,-26.59766],"type":"Point"}
+}

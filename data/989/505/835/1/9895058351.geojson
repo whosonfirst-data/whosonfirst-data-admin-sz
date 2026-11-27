@@ -1,0 +1,74 @@
+{
+  "id": 9895058351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24169,-26.19022,31.24169,-26.19022",
+    "geom:latitude":-26.19022,
+    "geom:longitude":31.24169,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13096742: name \"Masilela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13096742"
+        },
+        {
+            "citation":"GeoNames populated place 13096742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13096742"
+        },
+        {
+            "citation":"GeoNames populated place 13096742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13096742"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561223 (Maphalaleni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        1108561223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13096742
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"a3e7523673f6c4b5a3f1f923d84240d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561223,
+            "locality_id":9895058351,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058351,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Masilela",
+    "wof:parent_id":1108561223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24169,
+    -26.19022,
+    31.24169,
+    -26.19022
+],
+  "geometry": {"coordinates":[31.24169,-26.19022],"type":"Point"}
+}

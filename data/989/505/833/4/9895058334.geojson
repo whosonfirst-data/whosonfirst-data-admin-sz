@@ -1,0 +1,74 @@
+{
+  "id": 9895058334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50393,-25.85859,31.50393,-25.85859",
+    "geom:latitude":-25.85859,
+    "geom:longitude":31.50393,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13096592: name \"Mgunungu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13096592"
+        },
+        {
+            "citation":"GeoNames populated place 13096592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13096592"
+        },
+        {
+            "citation":"GeoNames populated place 13096592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13096592"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561207 (Mayiwane), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678211,
+        102191573,
+        1108561207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13096592
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"34a8670698a41d3bd4ea2142338d7dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561207,
+            "locality_id":9895058334,
+            "region_id":85678211
+        }
+    ],
+    "wof:id":9895058334,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mgunungu",
+    "wof:parent_id":1108561207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50393,
+    -25.85859,
+    31.50393,
+    -25.85859
+],
+  "geometry": {"coordinates":[31.50393,-25.85859],"type":"Point"}
+}

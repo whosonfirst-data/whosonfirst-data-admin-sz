@@ -1,0 +1,74 @@
+{
+  "id": 9895058625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05952,-26.81845,31.05952,-26.81845",
+    "geom:latitude":-26.81845,
+    "geom:longitude":31.05952,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121068: name \"Mtungulube\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121068"
+        },
+        {
+            "citation":"GeoNames populated place 13121068: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121068"
+        },
+        {
+            "citation":"GeoNames populated place 13121068: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121068"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561267 (Mahlangatja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678219,
+        102191573,
+        1108561267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121068
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"82ae3e10026699cf0658cc3aa93e3646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561267,
+            "locality_id":9895058625,
+            "region_id":85678219
+        }
+    ],
+    "wof:id":9895058625,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mtungulube",
+    "wof:parent_id":1108561267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05952,
+    -26.81845,
+    31.05952,
+    -26.81845
+],
+  "geometry": {"coordinates":[31.05952,-26.81845],"type":"Point"}
+}

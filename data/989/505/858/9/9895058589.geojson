@@ -1,0 +1,74 @@
+{
+  "id": 9895058589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.04476,-26.75171,32.04476,-26.75171",
+    "geom:latitude":-26.75171,
+    "geom:longitude":32.04476,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13114001: name \"Mvimbi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13114001"
+        },
+        {
+            "citation":"GeoNames populated place 13114001: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13114001"
+        },
+        {
+            "citation":"GeoNames populated place 13114001: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13114001"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561247 (Tikhuba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678215,
+        102191573,
+        1108561247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13114001
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"c407f502d30338a72a83255efe37e5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561247,
+            "locality_id":9895058589,
+            "region_id":85678215
+        }
+    ],
+    "wof:id":9895058589,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Mvimbi",
+    "wof:parent_id":1108561247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.04476,
+    -26.75171,
+    32.04476,
+    -26.75171
+],
+  "geometry": {"coordinates":[32.04476,-26.75171],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895058623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14259,-26.95992,31.14259,-26.95992",
+    "geom:latitude":-26.95992,
+    "geom:longitude":31.14259,
+    "iso:country":"SZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121059: name \"Lagubhu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121059"
+        },
+        {
+            "citation":"GeoNames populated place 13121059: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121059"
+        },
+        {
+            "citation":"GeoNames populated place 13121059: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121059"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561287 (Gege), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632635,
+        85678223,
+        102191573,
+        1108561287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121059
+    },
+    "wof:country":"SZ",
+    "wof:geomhash":"e85b5c155d2c23a86fbe83f4d76779c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632635,
+            "county_id":1108561287,
+            "locality_id":9895058623,
+            "region_id":85678223
+        }
+    ],
+    "wof:id":9895058623,
+    "wof:lastmodified":1795735028,
+    "wof:name":"Lagubhu",
+    "wof:parent_id":1108561287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14259,
+    -26.95992,
+    31.14259,
+    -26.95992
+],
+  "geometry": {"coordinates":[31.14259,-26.95992],"type":"Point"}
+}
